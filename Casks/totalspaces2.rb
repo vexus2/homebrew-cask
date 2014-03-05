@@ -1,4 +1,4 @@
-class Totalspaces < Cask
+class Totalspaces2 < Cask
   url 'http://downloads.binaryage.com/TotalSpaces2-2.0.17.zip'
   homepage 'http://totalspaces.binaryage.com/'
   version '2.0.17'
